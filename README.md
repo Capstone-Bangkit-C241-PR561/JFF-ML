@@ -1,6 +1,6 @@
 # JFF-ML
 
-Responsible for creating a machine learning model to predict and give the best food places recommendation according to user's preferences
+Responsible for creating a machine learning model to predict and give the best food places recommendation in Jogja according to user's preferences
 
 # Machine Learning Members
 
